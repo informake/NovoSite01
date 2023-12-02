@@ -59,7 +59,7 @@ networks:
 
 #Doc. de utilizacao
 # para acessar phpmyadmin no navegador: http://localhost:8899/ -  e a porta
-# para acessar nginx(servidor) no navegador: http://localhost:8989/ - e a porta
+# para acessar nginx(servidor) no navegador: php - e a porta
 
 #PHPMYADMIN info no file
 # servidor: mysql
